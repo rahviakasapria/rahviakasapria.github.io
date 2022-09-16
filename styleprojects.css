@@ -1,0 +1,26 @@
+body {
+  min-height: 200px;
+  color: #acacac;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* Projects */
+#projects {
+  background-color: #e2edff;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 52px;
+  text-align: center;
+  color: #000000;
+}
+
+/* Footer */
+.footer p {
+  color: #acacac;
+  font-size: 16px;
+}
