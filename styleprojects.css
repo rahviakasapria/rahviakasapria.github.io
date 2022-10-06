@@ -9,7 +9,7 @@ section {
 
 /* Projects */
 #projects {
-  background-color: #e2edff;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #9581f4, #23a6d5, #23d5ab);
   font-size: 16px;
 }
 
@@ -23,4 +23,8 @@ h1 {
 .footer p {
   color: #acacac;
   font-size: 16px;
+}
+
+.footer {
+  background-color: #007bff;
 }
